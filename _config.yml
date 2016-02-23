@@ -1,6 +1,6 @@
 name: admtml
 favicon: null
-layout_spectrum: 0.7875925416592509
+layout_spectrum: 0.24094
 typography_spectrum: 0.7354555265046656
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.971640097675845
+    - '#060606'
+    - '#fae2a9'
+    - '#f1b94d'
+    - '#79606d'
+    - '#be753e'
+  brandStrength: 0.5
   lightness: 0.8715090586338192
   saturation: 0.29524454055354
   rhythmicContrast: 0.20572433178313076
